@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DETAILS>
+<STUDENT>
+<ID>MCA101</ID>
+<NAME>Sandra Rachel Santhosh</NAME>
+<COLLEGE>Rajagiri College of Social Science</COLLEGE>
+<BRANCH>MCA</BRANCH>
+<YEAR>2017</YEAR>
+<EMAILID>rachelsandra@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<ID>MBA305</ID>
+<NAME>Suby Cherian</NAME>
+<COLLEGE>Rajagiri College of Social Science</COLLEGE>
+<BRANCH>MBA</BRANCH>
+<YEAR>2010</YEAR>
+<EMAILID>subycherian@gmail.com</EMAILID>
+</STUDENT>
+<STUDENT>
+<USN>MSC511</USN>
+<NAME>Jobin John</NAME>
+<COLLEGE>Rajagiri College of Social Science</COLLEGE>
+<BRANCH>MSC</BRANCH>
+<YEAR>2012</YEAR>
+<EMAILID>jobinjohn@gmail.com</EMAILID>
+</STUDENT>
+</DETAILS>
