@@ -1,0 +1,30 @@
+{
+  "DETAILS": {
+    "STUDENT": [
+      {
+        "ID": "MCA101",
+        "NAME": "Sandra Rachel Santhosh",
+        "COLLEGE": "Rajagiri College of Social Science",
+        "BRANCH": "MCA",
+        "YEAR": 2017,
+        "EMAILID": "rachelsandra@gmail.com"
+      },
+      {
+        "ID": "MBA305",
+        "NAME": "Suby Cherian",
+        "COLLEGE": "Rajagiri College of Social Science",
+        "BRANCH": "MBA",
+        "YEAR": 2010,
+        "EMAILID": "subycherian@gmail.com"
+      },
+      {
+        "USN": "MSC511",
+        "NAME": "Jobin John",
+        "COLLEGE": "Rajagiri College of Social Science",
+        "BRANCH": "MSC",
+        "YEAR": 2012,
+        "EMAILID": "jobinjohn@gmail.com"
+      }
+    ]
+  }
+}
