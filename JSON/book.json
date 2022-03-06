@@ -1,0 +1,22 @@
+{
+  "books": {
+    "book": [
+      {
+        "name": "Anna Karenina",
+        "author": "Leo Tolstoy"
+      },
+      {
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "Scott Fitzgerald"
+      },
+      {
+        "name": "Invisible Man",
+        "author": "Ralph Ellison"
+      }
+    ]
+  }
+}
